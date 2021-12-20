@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    .logo{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .logo img{
+    width: 55%;
+    border-radius: 50px;
+    }
+    .navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    cursor: pointer;
+    }
+    .nav-list{
+    width: 50%;
+    /*background-color: aqua;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .nav-list li{
+    list-style: none;
+    padding: 23px 34px;
+}
+.nav-list li a:hover{
+text-decoration: none;
+color: rgb(38, 15, 131);
+}
+.right-nav{
+/*background-color:#2F7AB6*/
+width: 50%;
+text-align: right ;
+padding: 0 25px;
+}
+.background{
+background:#2F7AB6 url(img/developrobotandgame.techbac.png);
+background-size: cover;
+background-blend-mode: darken;
+}
+.firstsection{
+height: 100vh;
+text-align: center;
+}
+.box-main{
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+max-width: 50%;
+margin: auto;
+height: 80%;
+}
+.firsthalf{
+width: 80%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.secondhalf{
+width: 80%;
+/* padding: 0px 0; */
+border: 4px solid white;
+border-radius: 2px;
+display: rgb(255, 255, 255);
+margin: auto;
+    position: relative;
+    left: 20px;
+}
+.text-big{
+font-size: 41px;
+}
+.text-small{
+font-size: 18px;
+}
+.btn{
+padding: 8px 20px;
+margin: 7px 3px;
+border: 2px solid white;
+border-radius: 8px;
+background: none;
+color: white;
+cursor: pointer;
+}
+.btn-sm{
+padding: 6px 10px;
+vertical-align: middle;
+}
+.sec{
+height: 500px;
+display: flex;
+align-items: center;
+justify-content: center;
+max-width: 80%;
+margin: auto;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Ubuntu Condensed', sans-serif;
+color: #ffffff;
+}
+.sec-left{
+flex-direction: row-reverse;
+color: #ffffff;
+}
+.sec{
+height: 500px;
+display: flex;
+align-items: center;
+justify-content: center;
+max-width: 80%;
+margin: auto;
+}
+.paras{
+padding: 0 85px;
+}
+
+
+.fa {
+    align-items: center;
+   
+    justify-content: center;
+   
+    width: 40px;
+}
+
+.jef {
+    color: #fdc873;
+    font-size: 38px;
+    text-align: center;
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+.jefpredicti{
+    font-size: 16px;
+    text-align: center;
+    color: rgb(255, 172, 19);
+
+}
+
+.jefpredicti2{
+    text-align: center;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+ 
+}
+
+body {
+    background-image: url("img/developrobotandgame.techbac.png");
+  }
+
+  .jefpredicti3{
+      color:#eb9100
+  }
+
+  .jefpredicti4{
+    text-align: center;
+    font-size: 20px;
+    color:#ffa007
+}
+
+.drg2021{
+    text-align: center;
+    font-size: 14px;
+    justify-content: center;
+    color:#ffffff
+}
+
+.drgl{
+    text-align: center;
+    justify-content: center;
+    color: #ffffff;
+}
+
+.drgrob{
+    color: #ffffff
+}
+
+.in{
+    width: 15px;
+    height: 15px;
+}
+
+.wiki0{
+  color: rgb(255, 255, 255);
+}
+
+.ryz{
+    color: #ffffff;
+}
+.drglogo1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.drgsube{
+    margin: 0;
+    color: #fdc873;
+    direction: ltr;
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 120%;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.newsleeter{
+    align-items: baseline;
+}
+
+.insta{
+    
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.yout{
+    
+margin-left: auto;
+margin-right: auto;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(37, 41, 255);
+    color: white;
+    text-align: center;
+ }
+
+ .email{
+    margin-left: auto;
+    margin-right: auto;
+    height: 300;  
+    width: 600;
+ }
+
+ .cb {
+    background-image: url("img/DRG\ transparent_logo.png");
+  }
+
+  .jefpredicti3{
+      color:#eb9100
+  }
+
+  .jefpredicti4{
+    text-align: center;
+    font-size: 20px;
+    color:#ffa007
+}
+
